@@ -1,0 +1,18 @@
+.banner {
+	background-image: url(file:///Users/alexandracargill/Desktop/travel/images/maldives.png);
+	color: white;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font size: 30px;
+	font-weight:lighter;
+}
+
+.banner h2{
+	font-size: 25px;
+	font-weight: lighter;
+	margin-bottom: 50px;
+}
